@@ -31,6 +31,9 @@ import co.gov.sfc.devops.WebSimple2.service.MemberRegistration;
 // EL name
 // Read more about the @Model stereotype in this FAQ:
 // http://www.cdi-spec.org/faq/#accordion6
+//Este proyecto está en GitHub, usuario jjcrojas. Se creó un token para poder 
+//hacer push a GitHub: https://www.youtube.com/watch?v=rLEYw1caoBQ para aprender cómo se crea y
+//se pone el token en Eclipse.
 @Model
 public class MemberController {
 
